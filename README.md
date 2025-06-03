@@ -11,8 +11,8 @@ API REST desenvolvida com NestJS para gerenciamento de produtos e carrinho de co
 
 1. Clone o repositório:
 ```bash
-git clone [https://github.com/gui-carrazzoni/BackRocketLab]
-cd back-rocket-lab
+git clone https://github.com/gui-carrazzoni/BackRocketLab
+cd BackRocketLab
 ```
 
 2. Instale as dependências:
